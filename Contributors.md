@@ -375,6 +375,7 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [Sam Venables](https://github.com/vensaherald)
 - [Debasish Chakroborti](https://github.com/joydeba)
 - [jerseywithak](https://github.com/jerseywithak)
+- [Lesego Letimela](https://github.com/Original-Les)
 - [Chifundo Kasiya](https://github.com/fundo89)
 - [Sayantan Karmakar](https://github.com/sayantank)
 - [Eric Sanders](https://github.com/BigECire)
